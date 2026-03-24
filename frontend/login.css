@@ -1,0 +1,16 @@
+body
+{
+    font-family: 'comfortaa';
+    background: rgb(247,255,250);
+}
+
+.login-card
+{
+    border: 1px black solid;
+    box-shadow: 0px 0px 4px rgba(0,0,0,0.5);
+}
+#LoginButton
+{
+    background-image: linear-gradient(to right,rgb(231, 251, 54), rgb(193, 228, 77));
+    color: white;
+}
